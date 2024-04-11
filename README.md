@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Bhagat</h1>
-<h3 align="center">A passionate and diligent Software Engineer</h3>
+<h3 align="center">A .Net Fullstack Developer with Angular</h3>
 <img align="right" alt="coding" widht="400" src="![image](https://github.com/hrprem16/hrprem16/assets/83371230/01124d0d-f446-4bdb-913e-b1efd1041f84)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrprem16&label=Profile%20views&color=0e75b6&style=flat" alt="hrprem16" /> </p>
