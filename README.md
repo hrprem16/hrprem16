@@ -6,7 +6,7 @@
 
 - I’m currently learning Fullstack Development
 - :seedling: TechStack .NET
-- TechStack Angular 17
+- :seedling: TechStack Angular 17
 - 💬 Ask me about **C++ and Data Structures**
 
 - 📫 How to reach me **hrprem16@gmail.com**
