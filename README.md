@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrprem16&label=Profile%20views&color=0e75b6&style=flat" alt="hrprem16" /> </p>
 
 - I’m currently learning Fullstack Development
-- TechStack .NET
+- :seedling: TechStack .NET
 - TechStack Angular 17
 - 💬 Ask me about **C++ and Data Structures**
 
